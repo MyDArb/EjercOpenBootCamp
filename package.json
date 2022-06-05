@@ -1,0 +1,14 @@
+  {
+  "name": "ejercopenbootcamp",
+  "version": "1.0.0",
+  "description": "Ejercicio desde Node en OpenBootCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MiProyecto"
+  ],
+  "author": "DArb",
+  "license": "ISC"
+}
